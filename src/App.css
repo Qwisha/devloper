@@ -698,3 +698,19 @@ main {
     @media (max-width: 1000px) {
       .left-align1 {
        justify-content: center; } }
+       /* spinner */
+       .spin_re
+{
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+.spin_ab
+{
+  position: absolute;
+  top: 40%;
+  left: 45%;
+}
+.orange{
+  background-color: #FF651C;
+}
